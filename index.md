@@ -6,3 +6,6 @@ hello **world**, i just wanted to _show_ my markdown <3
 ```python
 print("Hello World")
 ```
+- [ ] eat cake
+- [ ] take my meds
+- [ ] buy hangers
